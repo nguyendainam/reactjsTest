@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+:root {
+  --font-size-mobile: 12px;
+  --font-size-tablet: 14px;
+  --font-size-website: 18px;
+  --font-size-title: 16px;
+  --font-weight-title: 600;
+  --font-content-title: 14px;
+  --font-weight-content: 300;
+}
+
+:root .link {
+  color: #0074bd;
+  font-size: 14px;
+  cursor: pointer;
+}

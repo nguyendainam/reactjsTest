@@ -1,0 +1,13 @@
+.form-list-views {
+    width: 100%;
+    height: auto;
+    border: 2px solid firebrick;
+}
+
+
+.form-image {
+    width: 25%;
+    height: 100px;
+    border: 1px solid red
+
+}

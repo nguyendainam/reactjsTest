@@ -1,0 +1,48 @@
+.main-quick {
+  width: 100%;
+  height: fit-content;
+  font-size: var(--font-size-website);
+}
+
+.all-items {
+  width: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.all-items .item {
+  width: 100px;
+  height: 100px;
+  background-color: #0074bd;
+  border: 1px solid white;
+  margin: 0.5%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-tablet);
+  color: white;
+  cursor: pointer;
+}
+
+.all-items .item .image_items {
+  width: 30px;
+  height: 30px;
+  padding-bottom: 3%;
+}
+
+.all-items .item:hover {
+  background-color: aqua;
+}
+@media only screen and (max-width: 46.1875em) {
+  .main-quick {
+    font-size: var(--font-size-mobile);
+  }
+}
+
+/* tablet width > 740px and  <1024 px */
+@media only screen and (min-width: 46.25em) and (max-width: 63.9375em) {
+  .main-quick {
+    font-size: var(--font-size-tablet);
+  }
+}

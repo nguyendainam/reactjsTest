@@ -1,0 +1,100 @@
+.main-ImgandVid {
+  width: 100%;
+  height: auto;
+  margin: 2%;
+}
+
+.form-list-views {
+  width: 95%;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.form-image {
+  width: 200px;
+  height: 130px;
+  margin: 0.5%;
+}
+
+.form-image .image-child {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.bottom-items {
+  margin: 2%;
+}
+
+.form-video {
+  width: 200px;
+  height: 130px;
+  margin: 0.5%;
+  opacity: 0.7;
+  position: relative;
+  cursor: pointer;
+}
+
+.form-video .video-child {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.form-video .button-play {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: block;
+}
+
+.form-video:hover {
+  opacity: 1;
+}
+
+.form-video:hover .button-play {
+  display: none;
+}
+
+/* @mobile width  <740px */
+
+@media only screen and (max-width: 46.1875em) {
+  .form-image {
+    width: 150px;
+    height: 100px;
+    margin: 0.5%;
+  }
+  .form-image:not(:first-child) {
+    display: none;
+  }
+
+  .form-image#Active {
+    display: block;
+  }
+
+  .form-video:first-child {
+    width: 150px;
+    height: 100px;
+  }
+
+  .form-video:not(:first-child) {
+    display: none;
+  }
+
+  .form-video#Active {
+    display: block;
+    width: 150px;
+    height: 100px;
+  }
+
+  .form-video#Active .video-child {
+    width: 100%;
+    height: 100%;
+  }
+}
+
+/* tablet */
+@media only screen and (min-width: 46.25em) and (max-width: 63.9375em) {
+}
