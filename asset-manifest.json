@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/reactjsTest/static/css/main.7d126890.css",
+    "main.js": "/reactjsTest/static/js/main.b2bee79e.js",
+    "static/media/image_gallery-5.png": "/reactjsTest/static/media/image_gallery-5.244ff4be7ad5b3f568ad.png",
+    "static/media/image_gallery-3.png": "/reactjsTest/static/media/image_gallery-3.8f251997177a81bdc5fe.png",
+    "static/media/video.png": "/reactjsTest/static/media/video.7ba958144dfa7dcd342a.png",
+    "static/media/video-2.png": "/reactjsTest/static/media/video-2.0252cee2a051e44700e4.png",
+    "static/media/image_gallery-2.png": "/reactjsTest/static/media/image_gallery-2.9d0812b2ee4b763599a7.png",
+    "static/media/image_gallery.png": "/reactjsTest/static/media/image_gallery.8b5c6986a833e0188bab.png",
+    "static/media/video-1.png": "/reactjsTest/static/media/video-1.100cd8f21bbf4aaff7a9.png",
+    "static/media/image_gallery-1.png": "/reactjsTest/static/media/image_gallery-1.67047c7b661315643de1.png",
+    "static/media/video-3.png": "/reactjsTest/static/media/video-3.b406b20a60a828a08ccf.png",
+    "static/media/Mask Group -6.png": "/reactjsTest/static/media/Mask Group -6.5fb5655354d070e3d2fd.png",
+    "static/media/Mask Group 2.png": "/reactjsTest/static/media/Mask Group 2.77855ce33a532bdbabf0.png",
+    "static/media/Mask Group 1.png": "/reactjsTest/static/media/Mask Group 1.6e275e18fbc58147db82.png",
+    "static/media/Mask Group -5.png": "/reactjsTest/static/media/Mask Group -5.c2937db33290f9e5ef70.png",
+    "static/media/Mask Group -2.png": "/reactjsTest/static/media/Mask Group -2.516afc8941933ce7f7c3.png",
+    "static/media/Mask Group -1.png": "/reactjsTest/static/media/Mask Group -1.6fd0ba1955b8ed25fb6b.png",
+    "static/media/Mask Group -4.png": "/reactjsTest/static/media/Mask Group -4.901f640921404b51c098.png",
+    "static/media/Mask Group -3.png": "/reactjsTest/static/media/Mask Group -3.43a69635447d0ddade5a.png",
+    "index.html": "/reactjsTest/index.html",
+    "main.7d126890.css.map": "/reactjsTest/static/css/main.7d126890.css.map",
+    "main.b2bee79e.js.map": "/reactjsTest/static/js/main.b2bee79e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d126890.css",
+    "static/js/main.b2bee79e.js"
+  ]
+}
